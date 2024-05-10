@@ -3,9 +3,6 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class ProcessoSeletivo {
     public static void main(String[] args) throws Exception {
-        // analisarCandidato(1900.0);
-        // analisarCandidato(2200.0);
-        // analisarCandidato(2000.0);
         String [] candidatos = {"FELIPE","MÁRCIA","JULIA","PAULO","AUGUSTO"};
         for(String candidato: candidatos){
             entrandoEmContato(candidato);
