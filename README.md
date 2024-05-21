@@ -5,7 +5,7 @@
 ## Conecte-se Comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psantiago20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroasantiago/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/pedroasanti)
+[![PerfilDIO](https://img.shields.io/badge/Perfil_Dio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/pedroasanti)
 
 
 
