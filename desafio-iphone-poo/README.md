@@ -20,3 +20,35 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Reprodutor Musical: tocar, pausar, selecionarMusica
 * Aparelho Telefônico: ligar, atender, inciarCorreioVoz
 * Navegador na Internet: exibirPagina, adiconarNovaAba, atualizarPagina
+
+## Diagrama de Classes
+
+```mermaid
+classDiagram
+    class Iphone {
+        +ReprodutorMusical
+        +AparelhoTelefonico
+        +NevagadorInternet
+    }
+
+    class ReprodutorMusical {
+        -void tocar
+        -void pausar
+        -void selecionarMusica
+    }
+
+    class AparelhoTelefonico {
+        -void ligar
+        -void atender
+        -void iniciarCorreioVoz
+    }
+
+    class NavegadorInternet {
+        -void exibirPagina
+        -void adicionarNovaAba
+        -void atualizarPagina
+    }
+    Iphone -- ReprodutorMusical
+    Iphone -- AparelhoTelefonico
+    Iphone -- NavegadorInternet
+```
